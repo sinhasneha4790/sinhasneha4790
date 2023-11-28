@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sinhasneha4790
+- 👋 Hi, I’m Sneha Sinha
 - 👀 I’m interested in Learning Github...
 - 🌱 I’m currently learning Full STack Developer course...
-- 📫 How to reach me on...
+- Author - Sneha Sinha
 
 <!---
 sinhasneha4790/sinhasneha4790 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
